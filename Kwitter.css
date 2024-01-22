@@ -1,0 +1,43 @@
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+body{
+  background-color: royalblue;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 25px;
+}
+
+.login_div
+{
+  background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.header
+{
+  font-family: 'Dancing Script', cursive;
+}
+
+h3{
+  font-family: 'Roboto', sans-serif;
+}
+
+h4{
+  font-family: 'Roboto', sans-serif;
+}
+
+label{
+  font-family: 'Roboto', sans-serif;
+}
+
+input{
+  font-family: 'Poppins', sans-serif;
+}
+
+button{
+  font-family: 'Poppins', sans-serif;
+}
